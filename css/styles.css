@@ -1,0 +1,21 @@
+
+  body
+  {
+    background-color: #CFFF8D;
+  }
+  hr
+  {
+    background-color: inherit;
+    border-style: dotted none none;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+  }
+  h1
+  {
+    color: #425F57;
+  }
+  h3
+  {
+    color: #425F57;
+  }
